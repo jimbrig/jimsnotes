@@ -1,4 +1,6 @@
-# jimsnotes
+# Jims Notes 📝
+
+Scratch One-Off Markdown Notes for Safekeeping.
 
 ## Categories
 - [Git](./Git/index.md)
