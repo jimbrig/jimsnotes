@@ -1,0 +1,12 @@
+name: Markdown Linter
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  job_id:
+    runs-on: ubuntu-latest
+    steps:
+    - name: markdownlint
+      uses: logansquirel/action-markdownlint@v0.1
