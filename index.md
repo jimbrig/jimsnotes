@@ -1,6 +1,4 @@
-# Jims Notes 📝
-
-Scratch One-Off Markdown Notes for Safekeeping.
+# jimsnotes
 
 ## Categories
 - [Git](./Git/index.md)
@@ -11,4 +9,3 @@ Scratch One-Off Markdown Notes for Safekeeping.
 - [Windows](./Windows/index.md)
 
 ## Documents
-- [README](README.md)
