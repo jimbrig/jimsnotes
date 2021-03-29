@@ -4,6 +4,8 @@
 
 
 ## Documents
+- [R-Plumber-REST-API](R-Plumber-REST-API.md)
+- [R-Useful-Packages](R-Useful-Packages.md)
 - [R-base-pkg-hidden-gems](R-base-pkg-hidden-gems.md)
 - [R-books](R-books.md)
 - [R-data-validation-pkgs](R-data-validation-pkgs.md)
