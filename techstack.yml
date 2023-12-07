@@ -1,0 +1,29 @@
+repo_name: jimbrig/jimsnotes
+report_id: f314e3dce22c263fd59bdf51b7a433ef
+repo_type: Public
+timestamp: '2023-12-07T20:28:29+00:00'
+requested_by: web-flow
+provider: github
+branch: main
+detected_tools_count: 2
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source: ".github/workflows/create-index.yml"
+  last_updated_by: Jimmy Briggs
+  last_updated_on: 2021-03-27 05:33:22.000000000 Z
